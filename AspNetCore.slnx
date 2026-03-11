@@ -1205,6 +1205,7 @@
     <File Path="src/ProjectTemplates/TestInfrastructure/PrepareForTest.targets" />
     <File Path="src/ProjectTemplates/TestInfrastructure/runtimeconfig.norollforward.json" />
   </Folder>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="3a2dc8ee-9dc8-4463-9266-6252492fa614" />
   <Project Path="eng/tools/HelixTestRunner/HelixTestRunner.csproj" />
   <Project Path="src/Antiforgery/samples/MinimalFormSample/MinimalFormSample.csproj" />
   <Project Path="src/Assets/Microsoft.AspNetCore.App.Internal.Assets.csproj" />
